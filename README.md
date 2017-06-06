@@ -14,7 +14,7 @@ Versão Final - 2017
 
 ## Author
 
-* **Luan Teylo** - *Desenvolvimento* 
+* **[Luan Teylo](http://lattes.cnpq.br/6144485680653237)** * 
 
 ## Acknowledgments
 
