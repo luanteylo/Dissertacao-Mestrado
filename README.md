@@ -3,7 +3,7 @@
 Dissertação de Mestrado apresentada ao Programa de Pós-Graduação em Computação da Universidade Federal Fluminense como requisito parcial para a obtenção do Grau de Mestre em Computação. 
 
 
-Nesse repositório estão disponíveis a dissertação ([dissertacao.pdf](https://github.com/luanteylo/)) e a apresentação ([slide.pdf](https://github.com/luanteylo/)), que foi realizada no dia 17/03/2017.
+Nesse repositório estão disponíveis a dissertação ([dissertacao.pdf](https://github.com/luanteylo/Dissertacao-Mestrado/blob/master/dissertacao_final.pdf)) e a apresentação ([slide.pdf](https://github.com/luanteylo/Dissertacao-Mestrado/blob/master/Apresentacao_Disserta__o.pdf)), que foi realizada no dia 17/03/2017.
 
 __Mais informações sobre este trabalho podem ser encontradas no artigo disponível em: [article](http://www.sciencedirect.com/science/article/pii/S0167739X17309883)__
 
